@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import utils
 
 if '__main__' == __name__:
     # Input: A collection of watermarked images {J_k}.
