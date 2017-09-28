@@ -1,2 +1,6 @@
 *.pyc
 watermark-cvpr17.github.io/*
+.idea/*
+.idea
+paper/*
+paper
