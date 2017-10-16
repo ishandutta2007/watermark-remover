@@ -4,3 +4,4 @@ watermark-cvpr17.github.io/*
 .idea
 paper/*
 paper
+.DS_Store
