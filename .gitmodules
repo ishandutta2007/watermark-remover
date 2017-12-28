@@ -1,0 +1,3 @@
+[submodule "fast-directional-chamfer-matching"]
+	path = fast-directional-chamfer-matching
+	url = https://github.com/whitelok/fast-directional-chamfer-matching.git
